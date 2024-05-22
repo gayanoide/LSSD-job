@@ -8,8 +8,8 @@ Config.pos = {
 
 		gps = {
 			title = 'L.S.S.D',
-			desc = 'Se diriger vers le PDP',
-			logo = 'https://i.goopics.net/lrn6yw.png',
+			desc = 'Se diriger vers le PDS',
+			logo = 'https://i.goopics.net/nr5544.png',
 			x = 1858.55,
 			y = 3678.75,
 			z = 33.71,
