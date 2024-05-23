@@ -857,7 +857,7 @@ function OpenBillingMenu()
         local target = GetPlayerServerId(player)
         --print("Avant d'ouvrir le dialogue") -- Debugging line
 
-        local input = exports.ox_lib:inputDialog('Amende L.S.P.D', {
+        local input = exports.ox_lib:inputDialog('Amende L.S.S.D', {
             { type = 'number', label = 'Montant', placeholder = 'Montant de la facture' }
         })
         --print("Après avoir tenté d'ouvrir le dialogue") -- Debugging line
