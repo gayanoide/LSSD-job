@@ -1,4 +1,6 @@
 ESX = exports["es_extended"]:getSharedObject()
+TriggerEvent('esx_society:registerSociety', 'lssd', 'lssd', 'society_lssd', 'society_lssd', 'society_lssd', {type = 'public'})
+
 local deadPlayers = {}
 
 
